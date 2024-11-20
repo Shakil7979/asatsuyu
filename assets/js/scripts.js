@@ -5,7 +5,10 @@ $(document).ready(function(){
 			e.preventDefault();  
 	 
 			$('.bars_menu').slideToggle(1000);
-			$(this).toggleClass('fixed_bars');
+			
+			if (!$(this).hasClass('fixed_bars')) {
+				$(this).addClass('fixed_bars');
+			}
 	 
 			const icon = $(this).find('i');
 			if (icon.hasClass('fa-bars')) {
