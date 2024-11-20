@@ -318,6 +318,97 @@ h4{
 	height: 100%;
 }
 
+.travel_box.helped {
+	max-width: 680px;
+}
+
+.footer_logo {
+	text-align: center;
+}
+
+.footer_subscribe {
+	text-align: center;
+	margin: 50px 0;
+}
+
+.footer_subscribe h5 {
+	font-size: 20px;
+	color: #fff;
+	line-height: 28px;
+	font-weight: 400;
+	margin-bottom: 28px;
+}
+
+.footer_subscribe > p {
+	margin-top: 20px;
+}
+
+.footer_social ul {
+	display: flex;
+	justify-content: center;
+	gap: 25px;
+	margin-bottom: 50px;
+	align-items: center;
+}
+
+.copy_write_text p {
+	font-size: 16px;
+}
+
+.copy_write_text p a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.copy_write_text  {
+	text-align: center; 
+}
+
+.footer_logo p {
+	text-transform: uppercase;
+}
+
+.footer_logo {
+	color: #69AD09;
+	font-weight: 600;
+	margin-top: 15px;
+}
+
+.footer_subs_input {
+	display: flex;
+	justify-content: center;
+	gap: 15px;
+}
+
+.footer_subs_input input {
+	width: 100%;
+	max-width: 400px;
+	padding: 0 18px;
+	background: transparent;
+	color: #fff;
+	border-radius: 1px solid #ddd;
+}
+
+.footer_subs_input button {
+	background: #69AD09;
+	color: #fff;
+	border: none;
+	border-radius: 0;
+}
+
+.footer_social {
+	margin-top: 100px;
+}
+
+.footer_social ul li a {
+	font-size: 32px;
+	color: #ffff;
+}
+
+.travel_area,
+.help_area{
+	background: #121212;
+}
 
 
 
