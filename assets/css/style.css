@@ -536,6 +536,23 @@ h4{
 	margin-bottom: 80px;
 }
 
+.travel_box.helped.ready_text {
+	text-align: left;
+}
+
+.travel_box.ready_text h3 { 
+	text-align: left;
+	font-size: 22px;
+}
+
+.ready_img img{
+	width: 100%;
+}
+
+.accom_text span {
+	color: #c1c1c1;
+	font-size: 14px;
+}
 
 
 
